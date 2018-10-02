@@ -48,4 +48,7 @@
   mergeoptions = --no-edit
 [user]
 	email = jessie.baxter29@gmail.com
-	name = Jessie Baxter
+	name = Jessie
+[github]
+  user = jessie.baxter29@gmail.com
+
